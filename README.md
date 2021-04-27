@@ -16,8 +16,8 @@ We use the TweetEval corpus, a collection of 7 datasets for different classifica
 based on social media post.
 
 ## Two tasks will be completed:
-### * Binary Classification Task: 
+• Binary Classification Task: 
 Classifying Speech as either "Hateful" or "Not Hateful"
 
-### * Multiclass Classification Task:
+• Multiclass Classification Task:
 Predicting Emojis 
