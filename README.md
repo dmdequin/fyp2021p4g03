@@ -1,5 +1,7 @@
 # fyp2021p3g03
-# First Year Project - ITU 2021 - Project 4 - Group 3
+# First Year Project - ITU 2021
+# Project 4 - Natural Language Processing
+## Group 3
 
 ## Project Goals
 In this project, we will learn how to work with natural language data. We will learn:
