@@ -10,7 +10,7 @@ tokens = []
 unmatchable = []
 
 # Compile patterns for speedup
-token_pat = re.compile(r'\w+|#')
+token_pat = re.compile(r"\w+|#|'")
 skippable_pat = re.compile(r'[.,]+')  # typically spaces
 
 
@@ -32,6 +32,11 @@ while line:
                 token_match2 = re.search(token_pat, line[1:])
                 tokens.append(line[:token_match2.end()+1])
                 line = line[token_match2.end()+1:]
+
+            elif line[token_match.start():token_match.end()] == "'":
+                token_match2 = re.search(token_pat, line[1:])
+                tokens.append(line[:token_match2.end()+1])
+                line = line[token_match2.end()+1:]
             # If there is one at the beginning of the line, tokenise it.
             else:
                 tokens.append(line[:token_match.end()])
@@ -48,5 +53,24 @@ while line:
             unmatchable.append(line[:unmatchable_end])
             line = line[unmatchable_end:]
 
-print(tokens)
+final_tokens = []
+while len(tokens) > 0:
+    temp1 = tokens.pop(0)
+    try:
+        temp2 = tokens.pop(0)
+        if temp2[0] == "'":
+            temp1 += temp2
+            final_tokens.insert(0, temp1)
+            print('a', temp1)
+        else:
+            final_tokens.insert(0, temp1)
+            final_tokens.insert(0, temp2)
+            print('b', temp1, temp2)
+    except:
+        final_tokens.insert(0, temp1)
+        print('d', temp1)
+    
+final_tokens = final_tokens[::-1]
+
+print(final_tokens)
 print(unmatchable)
