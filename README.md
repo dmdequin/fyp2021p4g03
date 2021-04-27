@@ -16,12 +16,13 @@ In this project, we will learn how to work with natural language data. We will l
 In this project we will work with Python, and jupyter notebook.
 
 ## Data
-We use the TweetEval corpus, a collection of 7 datasets for different classification tasks
-based on social media post:
-
+We use the TweetEval repository, a collection of 7 datasets for different classification tasks
+based on social media post. The repository can be found here:
 https://github.com/cardiffnlp/tweeteval.git
 
-## Two Tasks will be completed:
+Each dataset is presented in the same format and with fixed training, validation and test splits.
+
+## This project will focus on two tasks:
 • **Binary Classification Task**: 
 Classifying Speech as either "Hateful" or "Not Hateful"
 
