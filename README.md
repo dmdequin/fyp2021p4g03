@@ -13,7 +13,9 @@ In this project we will work with Python, and jupyter notebook.
 
 ## Data
 We use the TweetEval corpus, a collection of 7 datasets for different classification tasks
-based on social media post.
+based on social media post:
+
+https://github.com/cardiffnlp/tweeteval.git
 
 ## Two Tasks will be completed:
 • **Binary Classification Task**: 
