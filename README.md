@@ -15,9 +15,9 @@ In this project we will work with Python, and jupyter notebook.
 We use the TweetEval corpus, a collection of 7 datasets for different classification tasks
 based on social media post.
 
-### Two Tasks will be completed:
-• Binary Classification Task: 
+## Two Tasks will be completed:
+• **Binary Classification Task**: 
 Classifying Speech as either "Hateful" or "Not Hateful"
 
-• Multiclass Classification Task:
+• **Multiclass Classification Task**:
 Predicting Emojis 
