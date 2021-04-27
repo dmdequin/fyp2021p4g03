@@ -3,10 +3,10 @@
 
 ## Project goals
 In this project, we will learn how to work with natural language data. We will learn:
-• what makes natural language different from other types of data,
-• how to prepare text data for automatic processing,
-• how to annotate data for supervised classification, and
-• how to train and run a classifier for a basic NLP task
+• What makes natural language different from other types of data,
+• How to prepare text data for automatic processing,
+• How to annotate data for supervised classification, and
+• How to train and run a classifier for a basic NLP task
 
 ## Project code
 In this project we will work with Python, and jupyter notebook.
