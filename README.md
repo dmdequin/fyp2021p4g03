@@ -3,9 +3,13 @@
 
 ## Project Goals
 In this project, we will learn how to work with natural language data. We will learn:
+
 • What makes natural language different from other types of data
+
 • How to prepare text data for automatic processing
+
 • How to annotate data for supervised classification
+
 • How to train and run a classifier for a basic NLP task
 
 ## Project Code
