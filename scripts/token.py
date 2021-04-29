@@ -101,6 +101,6 @@ final = []
 for line in f:
     final.append(tokenise(line))
 
-with open("../datasets/hate/interim/seperated.csv", "w", newline="") as f:
+with open("../datasets/irony/interim/seperated.csv", "w", newline="") as f:
     writer = csv.writer(f)
     writer.writerows(final)
