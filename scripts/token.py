@@ -13,8 +13,6 @@ def tokenise(line):
     token_pat = re.compile(r'\w+|#|\'|@')
     skippable_pat = re.compile(r'[.,]+')  # typically spaces
 
-
-
     # As long as there's any material left...
     while line:
         # Try finding a skippable token delimiter first.
