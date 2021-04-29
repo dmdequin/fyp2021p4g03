@@ -26,7 +26,7 @@ Each dataset is presented in the same format and with fixed training, validation
 
 ## This project will focus on two tasks:
 • **Binary Classification Task**: 
-Classifying Speech as either "Hateful" or "Not Hateful"
+Classifying Speech as either "Irony" or "Not Irony"
 
 • **Multiclass Classification Task**:
 Predicting Emojis 
