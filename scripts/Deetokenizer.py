@@ -2,19 +2,19 @@ import re
 
 #line = 'A cat sat on the mat. His name was Måns.'
 #line = 'friendship at its finest. ....#pixar #toystory #buzz #woody #friends #friendship #bff…'
-line = "No I don't have any carrots!! #seattlepoloclub #horse #horses @ Seattle Polo &amp; Equestrian Club"
+line = "No I don't have any carrots!! #seattlepoloclub #horse #horses @Seattle Polo &amp; Equestrian Club"
 
 # Initialise lists
 tokens = []
 unmatchable = []
 
 # Compile patterns for speedup
-#token_pat = re.compile(r"#*[\w']+")
-#skippable_pat = re.compile(r'[.,]+')  # typically spaces
+token_pat = re.compile(r"#*@*[\w']+")
+skippable_pat = re.compile(r'[.,]+')  # typically spaces
 
 # tokenizer on token.py file
-token_pat = re.compile(r'\w+|#|\'|@')
-skippable_pat = re.compile(r'[.,]+')  # typically spaces
+#token_pat = re.compile(r'\w+|#|\'|@')
+#skippable_pat = re.compile(r'[.,]+')  # typically spaces
     
 # As long as there's any material left...
 while line:
