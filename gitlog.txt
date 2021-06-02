@@ -1,0 +1,880 @@
+commit e8e972e3dde76a6b678314f1bddb621f8df10025
+Author: gifa <gifa@itu.dk>
+Date:   Wed Jun 2 19:56:37 2021 +0200
+
+    Final notebook review. Deleted unused imports (sys, os). Deleted empty cells. All cells fully functional.
+
+commit 1b0777f9642d860a397e75ad32b0cf78c8855238
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Wed Jun 2 16:00:11 2021 +0200
+
+    update dees notebook
+
+commit 8f7bd3c8a780d1fd5e012977d9178de01db547b4
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Wed Jun 2 15:58:55 2021 +0200
+
+    comments to weird section
+
+commit 20df5c4395808f61252c23b9b39c3083e625e5dc
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue Jun 1 18:00:47 2021 +0200
+
+    fixing irnoy again. WTH haha
+
+commit f564333dc17d377608c47b63756a6beaafcce2b9
+Author: gifa <gifa@itu.dk>
+Date:   Tue Jun 1 17:02:34 2021 +0200
+
+    Emoji labels better picture
+
+commit eaa4937101143f0bc111019c6181addfb66f4152
+Author: gifa <gifa@itu.dk>
+Date:   Tue Jun 1 16:38:25 2021 +0200
+
+    New figures
+
+commit c6074fc4d58c855be404e02d059938faafc68649
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue Jun 1 16:31:25 2021 +0200
+
+    updating confusion matrices
+
+commit ded1bd3a247b7b70c9077f7c211979202837ed0c
+Author: gifa <gifa@itu.dk>
+Date:   Tue Jun 1 16:01:16 2021 +0200
+
+    Small print changes to upload figures to Overleaf
+
+commit a839086ed6bf54cdc15729989011c4ed03bfa01b
+Author: gifa <gifa@itu.dk>
+Date:   Tue Jun 1 08:23:47 2021 +0200
+
+    Improved Zipf Law Plotting tool and new figures saved
+
+commit 8f267fb046321b15e9b419971a3a850e3ed9e9a6
+Merge: cb0d385 0f75c25
+Author: gifa <gifa@itu.dk>
+Date:   Tue Jun 1 07:39:46 2021 +0200
+
+    Functions comments shifted to avoid overflowed sentences
+
+commit cb0d385ff28022b134a6fab75b0503d5fc657f41
+Author: gifa <gifa@itu.dk>
+Date:   Tue Jun 1 07:38:02 2021 +0200
+
+    Functions comments shifted to avoid overflowed sentences
+
+commit 0f75c2577663ebcca4e244c9dd0f4dc638bd6781
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Mon May 31 15:12:15 2021 +0200
+
+    Delete Dees_notebook.ipynb
+
+commit 6d723611fd691333984cbb96fc24df66866b4e56
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Mon May 31 15:11:55 2021 +0200
+
+    Create dee_notebook.ipynb
+
+commit d19542be730dce5abe4a96eb498a4b31b7d52078
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Mon May 31 15:03:40 2021 +0200
+
+    add  tokenized csv files
+
+commit 560f95db5aad3292041577770a980680cf8a2bb3
+Author: gifa <gifa@itu.dk>
+Date:   Mon May 31 14:24:54 2021 +0200
+
+    Fixed bug filenames [seperated] for [separated]
+
+commit 471558cbcc7099c660595ff34f82245359f1adc3
+Merge: 10c6c7a 6ed278c
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Mon May 31 13:58:07 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p4g03
+
+commit 10c6c7ae802851a72519659dfb9b9784ef787857
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Mon May 31 13:57:56 2021 +0200
+
+    computed more stats for inter-annotator aggreement
+
+commit 6ed278c582c3241ef66f9f1f63933294d45f8d15
+Author: gifa <gifa@itu.dk>
+Date:   Mon May 31 13:56:35 2021 +0200
+
+    Bug in csv file generator: replaced [seperated] by [separated]
+
+commit 42339776c49528dd277161fbac0c03feaf49d32d
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Mon May 31 12:09:05 2021 +0200
+
+    zipfs law figures. fixed variable names
+
+commit 45da6fc055c30d8f5a478f277dcd1f13bbf45af5
+Author: gifa <gifa@itu.dk>
+Date:   Mon May 31 08:38:04 2021 +0200
+
+    Variable name checking
+
+commit 155a46b88b04ebc3223a43b72e4d2f07c0c3e9e8
+Author: gifa <gifa@itu.dk>
+Date:   Sun May 30 08:46:20 2021 +0200
+
+    Some more variable fixing
+
+commit c52bc0e4a1c18a00d79a9ce08bc2aa32b0106fab
+Author: gifa <gifa@itu.dk>
+Date:   Sun May 30 08:44:54 2021 +0200
+
+    Fixed all kind of variable not defined errors
+
+commit 4888efde5ea7884dc4832cd497b2dd1b2f333043
+Author: gifa <gifa@itu.dk>
+Date:   Sun May 30 08:39:26 2021 +0200
+
+    Fixed df names and corrected comments : 45k emoji tweets in the TRAINING dataframe (instead of just df)
+
+commit 3b87e03e6217ea0e4d76c18e14433558148c2d4f
+Author: gifa <gifa@itu.dk>
+Date:   Sun May 30 07:53:05 2021 +0200
+
+    Change in Irony Data - Number of Tweets : Prints made more readable
+
+commit e3f53f65b2d7a66f412634fe5acfcd4a5a5c74e6
+Author: gifa <gifa@itu.dk>
+Date:   Sun May 30 07:44:35 2021 +0200
+
+    csv file name corrected
+
+commit 0f02572d6f5836c0bbae54bbe4d01c34d39f6690
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sat May 29 19:17:30 2021 +0200
+
+    added comments
+
+commit 25b56bbd2fd0cb0ef82b8095de16c2df8721daa0
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sat May 29 19:03:22 2021 +0200
+
+    loaded test data and ran model to predict, and reported results with confusion matrices
+
+commit c8f596d055bb705a413647f096d3e70d9813742b
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sat May 29 18:21:07 2021 +0200
+
+    loading test data
+
+commit 3c84a9d669090bc4f9d4c138c2d9c804663e5e81
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sat May 29 18:14:16 2021 +0200
+
+    updated main notebook
+
+commit 4b0da8903563179a1371506dacd6b8bda5451963
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sat May 29 18:13:15 2021 +0200
+
+    confusion matrices, and testing on validation sets
+
+commit 88c8942d60643b4432732d7edaf6c99cc09841fe
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri May 28 12:42:18 2021 +0200
+
+    playing with classifiers
+
+commit 18a7eb8844c3d41fecfce1db1f667ee98e38a446
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri May 28 12:25:37 2021 +0200
+
+    classifiers with emoji and irony data with prediction on valuation data
+
+commit da89dd6ba2fe6be4b675bdde1c97d22e510b81d4
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri May 28 10:57:59 2021 +0200
+
+    cleaned up classifiers and tried new parameters
+
+commit 6effabda0c36931243754330a966f7ae70589ffc
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri May 28 08:41:26 2021 +0200
+
+    copied main to do work
+
+commit d570d81f3bcf4336948348c74ddc21f6537cb2b9
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri May 14 14:58:39 2021 +0200
+
+    Update notebook.ipynb
+
+commit a7a86b74e49d73210f9c23e5df1009a8f4b9647a
+Author: ccor <ccor@itu.dk>
+Date:   Tue May 11 16:15:27 2021 +0200
+
+    Playing with classifiers and prediction models
+    
+    Co-Authored-By: Danielle Marie Dequin <ddeq@itu.dk>
+
+commit d92b565decd3f4df38faab63196af165f8c357e3
+Author: gifa <gifa@itu.dk>
+Date:   Tue May 11 12:21:28 2021 +0200
+
+    Some more comments
+
+commit 58abe1ee132de6bd3eb46779c22176f4d640b365
+Author: gifa <gifa@itu.dk>
+Date:   Tue May 11 12:17:51 2021 +0200
+
+    Some comments
+
+commit 3a97af82f26cab0847e666a9d3907486ef9c712d
+Author: gifa <gifa@itu.dk>
+Date:   Sun May 9 07:05:27 2021 +0200
+
+    Some more comments + fixed prints
+
+commit 536ec991337d2373d943859dd01afee04b0d3076
+Author: gifa <gifa@itu.dk>
+Date:   Sun May 9 07:00:04 2021 +0200
+
+    Coincidence ratio per annotator
+
+commit fb29af58ab9e07ab7f9cfb2b545f33f2a8cdff72
+Author: gifa <gifa@itu.dk>
+Date:   Sun May 9 06:51:57 2021 +0200
+
+    Prettyprint for ratios
+
+commit 421c90c2e1c487f02097baf807ee7aba1fcaa219
+Author: gifa <gifa@itu.dk>
+Date:   Sun May 9 06:31:02 2021 +0200
+
+    Optimazed annotators read and ratio
+
+commit d77405d6819873cea64d0dcd52d60dc20b063486
+Author: gifa <gifa@itu.dk>
+Date:   Sun May 9 06:26:16 2021 +0200
+
+    Comments
+
+commit cbe14eb3d0514759921f75f251f6175be4055ecc
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 18:05:56 2021 +0200
+
+    Fixed ratios agree
+
+commit f43382433043b4580896421865af9175bdc19c6b
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 17:59:37 2021 +0200
+
+    Added August and Moneeca to Agree
+
+commit 33d117ca3c686c609c1f1da3534de48fced84195
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sat May 8 17:52:25 2021 +0200
+
+    Added summary of annotation exercise
+
+commit 753d0383e41ca42eb7e5de660305432379997f3c
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 17:37:35 2021 +0200
+
+    Fixed ratios
+
+commit 5f29ea6e7dab985a2dcdfcb671b8bafea739d52c
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 17:29:58 2021 +0200
+
+    Deleted old Notebook
+
+commit 04ffb895303684f58d7b421d278140e8a44f0452
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 17:28:19 2021 +0200
+
+    Notebook
+
+commit a1013806480b7d6341389ede58afbacb2f5a6c90
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 17:26:21 2021 +0200
+
+    Added Moneeca Annotation
+
+commit 77a2e6196a46fdb16c894561569b0b2a3f2c14a2
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 17:24:05 2021 +0200
+
+    Fixed Annotation
+
+commit 248b0282c2e4dbe85af9a2f6877169c340a08ab4
+Merge: ee2ae3a b4f6e83
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 17:23:42 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p4g03
+
+commit ee2ae3af5dc92fb34fcb179d8f4b887a4c4d81a8
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 17:23:07 2021 +0200
+
+    Annotation Fixed
+
+commit b4f6e83fbfab64cfe4177e23db5e882a7bd95734
+Merge: b41f397 1f2abff
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Sat May 8 17:13:31 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p4g03
+
+commit b41f39700c163762fc47aef17fe87f14dceca0b4
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Sat May 8 17:13:28 2021 +0200
+
+    Create settings.json
+
+commit 660309ff2a623635eaf7c86b99afe2ccba98c9fc
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Sat May 8 17:13:23 2021 +0200
+
+    Create MoneecaAnnotation.txt
+
+commit 1f2abff64d0e6f1e81799a2ecc3c3469f1497e64
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 16:56:22 2021 +0200
+
+    IntraAgreement
+
+commit d073e06e300e3fc849216dcbd1cd0d7cfcc2a0b8
+Merge: 21d5090 eaa323c
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 16:51:50 2021 +0200
+
+    intraagreement
+
+commit 21d5090c363bb269c783fd516912d25237a2bffd
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 16:46:03 2021 +0200
+
+    Interagreement limitations
+
+commit eaa323c80ffc3fceb3049e9ae59b1fc056e2d71b
+Author: ccor <ccor@itu.dk>
+Date:   Sat May 8 16:35:28 2021 +0200
+
+    updates
+
+commit 1fa50eeeef6a9e61fe3d7ca0334654ad0142d5e5
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 16:02:27 2021 +0200
+
+    Old notebook
+
+commit e6b9ed0d3dbe17c7fb0f7a74896ce1c4b32f8a04
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 16:00:51 2021 +0200
+
+    Deleted old notebook
+
+commit 6b603983f2b229288525c569bd40b50e8190e585
+Merge: 345ba78 fe47cac
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 15:59:28 2021 +0200
+
+    Added August lables
+
+commit 345ba78be22ea71e983978237169fb789fd51316
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 15:58:45 2021 +0200
+
+    Added August labels
+
+commit fe47cace208e940d0b4eff5cfa390bbf3ba015ba
+Author: ccor <ccor@itu.dk>
+Date:   Sat May 8 15:58:37 2021 +0200
+
+    Update notebook.ipynb
+
+commit 0c42053d339dd355fac042363ceb1af60888ba88
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Sat May 8 15:55:17 2021 +0200
+
+    Create augunotation.txt
+
+commit 4e43b92b7479c4ccb5172912fde9db6e00d2b7fb
+Author: ccor <ccor@itu.dk>
+Date:   Sat May 8 15:51:35 2021 +0200
+
+    inter-rater comparisons
+
+commit cd17ffa16482aeafa3f2c15641e0ffbe4bb50691
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 15:44:00 2021 +0200
+
+    Notebook ratios
+
+commit 9e856c57b7a57c563f9dd59417a7b89eb72750ce
+Merge: 5bfe0ea 8b2ed9f
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 15:42:18 2021 +0200
+
+    InterAnnotation ratios
+
+commit 5bfe0ea94d490cb2cca823b69adddfdcc265af37
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 15:40:35 2021 +0200
+
+    Interannotation ratios
+
+commit 8b2ed9f3f60dc31e25c6cc4972d60ae2c5e89940
+Author: ccor <ccor@itu.dk>
+Date:   Sat May 8 15:20:56 2021 +0200
+
+    Update notebook.ipynb
+
+commit c22ed10ce1fced64980311afecedfcddaf3f0e45
+Author: ccor <ccor@itu.dk>
+Date:   Sat May 8 14:57:17 2021 +0200
+
+    Loaded annotations to dataframe
+
+commit 32ead4a397aea0c6e5ffde5ce354602844c1b6a4
+Merge: bd3505c f508877
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 14:41:35 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p4g03
+
+commit bd3505c129b51b64d52316d54f583846a0bfe6e1
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 8 14:41:14 2021 +0200
+
+    Ginos Annotations
+
+commit f50887779bb3a91e7f6ae3ee80a71066e32a6148
+Author: ccor <ccor@itu.dk>
+Date:   Sat May 8 14:30:34 2021 +0200
+
+    Update annotation name, started loading annotations
+
+commit a3dac514c65ced5009b0c8c04967ff37d6a2bd4c
+Author: ccor <ccor@itu.dk>
+Date:   Sat May 8 12:36:26 2021 +0200
+
+    Create SannaAnnotation
+
+commit 791da80b753f2d5850e87cb987ceb3841b88e1fc
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sat May 8 10:48:35 2021 +0200
+
+    Create DeeAnnotation.txt
+
+commit 27cfbe5e1773aa133b24405ce6b76b8f0dea50f1
+Author: ccor <ccor@itu.dk>
+Date:   Fri May 7 13:46:26 2021 +0200
+
+    unpack iaa set
+
+commit d8f478b08bb98a2a3ce1a27b7c721bb3cfd6f03a
+Author: ccor <ccor@itu.dk>
+Date:   Fri May 7 13:40:41 2021 +0200
+
+    Update notebook.ipynb
+
+commit cdfd0a04d538324058a343cccb1d945e77311477
+Author: ccor <ccor@itu.dk>
+Date:   Fri May 7 13:20:38 2021 +0200
+
+    Update notebook.ipynb
+
+commit afb2525d81d3484ef394b39d95fb94d1ab715eda
+Author: gifa <gifa@itu.dk>
+Date:   Fri May 7 12:54:10 2021 +0200
+
+    Links to datasets papers
+
+commit aaff1878229acbda85a0842f87315cef8dfabdf5
+Author: ccor <ccor@itu.dk>
+Date:   Fri May 7 10:42:07 2021 +0200
+
+    moved models to main notebook
+    
+    Added additional models for comparison. Still need to add emoji ones. Added generator for funsies.
+
+commit d6cc91932b6e2edd81690d66eb98547755d10d10
+Author: gifa <gifa@itu.dk>
+Date:   Tue May 4 19:59:16 2021 +0200
+
+    Added Type/Token ratio
+
+commit 3b13275a49d152f98f9bf6aa4be20ade6ba65081
+Author: gifa <gifa@itu.dk>
+Date:   Tue May 4 19:50:59 2021 +0200
+
+    Fixed Prints for Emoji and Zipf Law
+
+commit a99c9194cf854c4ae5d877b22a8da9739234babd
+Author: gifa <gifa@itu.dk>
+Date:   Tue May 4 19:45:29 2021 +0200
+
+    Fixed print
+
+commit 5509ce11137b7f1843afbd6f844d89fc1eb499a7
+Author: gifa <gifa@itu.dk>
+Date:   Tue May 4 19:35:12 2021 +0200
+
+    Revisited counters
+
+commit 59bdd191626ec996156c8bbe275a4e6c19069ea6
+Author: gifa <gifa@itu.dk>
+Date:   Tue May 4 17:53:02 2021 +0200
+
+    Comments
+
+commit 4fa1f11facbf56e5707d50578b84d3a7d8fb3fd5
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue May 4 16:17:41 2021 +0200
+
+    mlk stuff
+    
+    I had a dream
+
+commit f1f39751efc9c2090f611762514d23d49f014e53
+Merge: 2b7bedb 8fb090e
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue May 4 15:34:26 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p4g03
+
+commit 2b7bedbee1848eb927612ffcff3c60dd9e30665d
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue May 4 15:34:23 2021 +0200
+
+    Update notebookDee.ipynb
+
+commit 8fb090ebabc023cb1785790c55dcd0c1d5b6a37f
+Author: gifa <gifa@itu.dk>
+Date:   Tue May 4 15:04:17 2021 +0200
+
+    Zipf Plot
+
+commit 4a8a1f6f73d229e6cc64b7ef5fe93b4490f6502b
+Author: gifa <gifa@itu.dk>
+Date:   Tue May 4 14:57:11 2021 +0200
+
+    Zipf Law
+
+commit 3ccb7c8e2bd5fccf175bf011c7b1f0af2c66995e
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue May 4 12:57:00 2021 +0200
+
+    Update notebookDee.ipynb
+
+commit 0e0c546ca5066b3faa8eb024bf955c96570af82f
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue May 4 10:41:37 2021 +0200
+
+    updated main notebook with new function
+
+commit faf43a97cd64c6ab97c43e6ef478d8894cbd8d9f
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue May 4 10:39:01 2021 +0200
+
+    made a new function
+    
+    Added a function to load data, tokenize, and write to  csv file
+
+commit 822cd0fdb3368685b3e2ffb8630bdf33e76ebdfc
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sun May 2 21:53:48 2021 +0200
+
+    Update notebook and compare our tokenizer with tweet tokenizer
+
+commit 8f462d280aa71d76b73307fc16a102925743fd5e
+Author: gifa <gifa@itu.dk>
+Date:   Sat May 1 11:15:34 2021 +0200
+
+    Testing different tokenizer
+
+commit ab65adbdcd9bb6bbaed76cbc23baef1642d39cfe
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sat May 1 10:21:09 2021 +0200
+
+    added more headings, and tweaked outputs
+
+commit 925c66f956740ccff7e4eedaa138b37c06f4c7bb
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sat May 1 09:57:34 2021 +0200
+
+    added a new notebook for the main notebook, with sections.
+
+commit 8a249789a4031263ce9aafc6abb5b5c30d752d6b
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 30 15:31:35 2021 +0200
+
+    Check Zipf Law for all datasets
+
+commit 34ae272a0579715fa2ae500b0e90b05d4b924c59
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 30 15:30:18 2021 +0200
+
+    Check Zipf Law for all datasets
+
+commit 22f2195de38d46027252ff7f4525f332b6adee1b
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 30 14:59:21 2021 +0200
+
+    Counter for less frequent tokens
+
+commit efdaa1197854d1c9518f3928e98e54fb9390d63b
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 30 14:46:37 2021 +0200
+
+    Bug fixed in dataframe dictionary
+
+commit 32966ad1bcc989073f4ce4dd100ea27022c4fb5b
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 30 14:40:07 2021 +0200
+
+    Improved directory searcher
+
+commit 7f1854bd49ef9591cb65d0c7361a5fa31708977a
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 30 14:28:42 2021 +0200
+
+    Search files to go through
+
+commit 998939c1b35730110894f0ca31653fb26efe6d0f
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 30 14:23:56 2021 +0200
+
+    Tokenizer as function
+
+commit 6859c06c1b4463883e2cf91e05cb8389fccc87c9
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 30 14:20:41 2021 +0200
+
+    lazy tokenizer
+
+commit 29b39ac50827a589b618a064046b3edd1b590a7e
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 19:15:21 2021 +0200
+
+    Tidy
+    
+    Some tidying, and a little basic data exploration (size of data sets and such)
+
+commit 9c6226db3da5015b15d685ec7057dd8ea3f59f06
+Merge: 0b62d14 f8978b6
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 15:24:19 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p4g03
+
+commit 0b62d14ebb91cea50d04c258b5d76dde792eeb17
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 15:24:16 2021 +0200
+
+    tokeniser finetuning & ex 1&2
+    
+    Co-Authored-By: Danielle Marie Dequin <ddeq@itu.dk>
+    Co-Authored-By: Carl August Wismer <3793+cwis@users.noreply.github.itu.dk>
+
+commit f8978b637047ad4ac8f593db3d16470423e5150c
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 29 13:42:23 2021 +0200
+
+    Update Deetokenizer.py
+
+commit ac0b6871459f9fc393d35848c9d4d9fa7fe9cf04
+Merge: 0fe84ca 18a954a
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 13:41:49 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p4g03
+
+commit 0fe84cadc374138ce05c9416981d8dd918dcae83
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 13:41:47 2021 +0200
+
+    change to irony, less hate in the world
+
+commit 18a954aaee96a2b8b87693a5576a71687fa5697e
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Thu Apr 29 13:37:49 2021 +0200
+
+    Update README.md
+
+commit 47d31835d69f213032440bcd479eaac42ca3efbe
+Merge: caaad5e 07dbf47
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 29 13:27:02 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p4g03
+
+commit caaad5e8cd1be63f225f433774c229cddfe20547
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 29 13:27:01 2021 +0200
+
+    Update Deetokenizer.py
+
+commit 07dbf474cf81e1f044cf3062164967e2a31666e2
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 12:41:08 2021 +0200
+
+    error fix
+
+commit 3ed97b9a11779891ef86fd67147ba8816265b8d1
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 12:30:33 2021 +0200
+
+    Update to score tokenisers
+
+commit 715cfb1e825a6967c73d87379814731ea3747fb8
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 12:14:17 2021 +0200
+
+    Create Tokeniser_testing.ipynb
+    
+    Added a notebook to test tokenisers against nltk.tokenize
+
+commit 2bf9e72ce5ade1e0e6a4469ae88b5f51a406e623
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 11:41:20 2021 +0200
+
+    Work on reading and writing tokenised files
+
+commit d484083e0bcac052db343d5eab70fb97e0a298cd
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 10:35:23 2021 +0200
+
+    Added reading in of emoji dataset to notebook
+
+commit 87250849f8a7953f3757500a5b2bf8e1cbd21fa1
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 10:28:58 2021 +0200
+
+    tokeniser in notebook
+    
+    Moved tokeniser to notebook
+
+commit 16079d6398f0bc9764f6d7b3b7436d43a5a9b82d
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 29 10:13:21 2021 +0200
+
+    added Danielle's tokenizer script
+
+commit 02d6a9dc637e4c0cc8701f2f6202ae6ffd4bd067
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 29 10:06:40 2021 +0200
+
+    Tokeniser corrections
+    
+    Corrections to token.py so that it handles contractions correctly. Also handles '@' and '#'.  Defining output location needs sorting to work better as will always output to the same file regardless of input.
+
+commit ebabf13a5989ab60b42b97493144ed471e1d6863
+Author: ccor <ccor@itu.dk>
+Date:   Tue Apr 27 16:12:20 2021 +0200
+
+    Update token.py
+    
+    script now handles contractions
+
+commit 9bfce78a7186d6fbfcd9de610c5a6045bcb046af
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 27 15:44:01 2021 +0200
+
+    Update README.md
+
+commit 9feead34f2dad65b1dbdebf204b3980439d01ff4
+Author: ccor <ccor@itu.dk>
+Date:   Tue Apr 27 15:40:35 2021 +0200
+
+    Create token.py
+    
+    Based on Christian's code, now keeps hashtags with the tag
+
+commit d9ebfd60a2681a10b7de8301ce27a2a4d8a8d12e
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 27 15:29:38 2021 +0200
+
+    Update README.md
+
+commit 0bfd482981ae640de177fef551f8f36a56dc5c9c
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 27 15:26:59 2021 +0200
+
+    Update README.md
+
+commit 405313837ca52dce7f93770588e8229ff37715d8
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 27 15:26:31 2021 +0200
+
+    Update README.md
+
+commit 9875ccd39cd0f6b2c46259a12706ef5e6f8a74e3
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 27 15:26:15 2021 +0200
+
+    Update README.md
+
+commit 40748bec266fb825c7f863c60d01e0b8b4abc013
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 27 15:25:05 2021 +0200
+
+    Update README.md
+
+commit 91454bee53aaec250bf1f7fa7face65122e47920
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 27 15:20:33 2021 +0200
+
+    Update README.md
+
+commit c2e5b0876680d55483d39acb127472a5a913805f
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 27 15:19:46 2021 +0200
+
+    Update README.md
+
+commit e5bdee172a099d78fdbb152e5c864d89304f59db
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 27 15:19:03 2021 +0200
+
+    Update README.md
+
+commit bfc75324460f52ed97f9738fe518ccc3864ebfda
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 27 15:18:24 2021 +0200
+
+    Update README.md
+
+commit e215234a4b5fa43103f4d7ed9e0e3ddbeb2cb8d0
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 27 15:17:36 2021 +0200
+
+    Update README.md
+
+commit 0a03bf428355e1fc7dbfe9561a54398b43a12b3d
+Author: gifa <gifa@itu.dk>
+Date:   Tue Apr 27 14:28:31 2021 +0200
+
+    Directories
+
+commit 6a007b1a35cfb74be496fb658e325b4787488106
+Author: gifa <gifa@itu.dk>
+Date:   Tue Apr 27 14:27:23 2021 +0200
+
+    Readme
+
+commit 1d6366fe7bc59949f5af13af27ae2f90ef6b69fa
+Author: gifa <gifa@itu.dk>
+Date:   Tue Apr 27 14:21:04 2021 +0200
+
+    Initial commit
+
+commit 2dcacd4af78060717e3d319fba99518c47ba5095
+Author: Gino Franco Fazzi <gifa@itu.dk>
+Date:   Tue Apr 27 14:18:51 2021 +0200
+
+    Initial commit
